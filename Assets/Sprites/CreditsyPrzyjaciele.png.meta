@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: ab96b67859ce3ca40866cdace0612c88
+timeCreated: 1546389858
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CreditsyPrzyjaciele_0
+    21300002: CreditsyPrzyjaciele_1
+    21300004: CreditsyPrzyjaciele_2
+    21300006: CreditsyPrzyjaciele_3
+    21300008: CreditsyPrzyjaciele_4
+    21300010: CreditsyPrzyjaciele_5
+    21300012: CreditsyPrzyjaciele_6
+    21300014: CreditsyPrzyjaciele_7
+    21300016: CreditsyPrzyjaciele_8
+    21300018: CreditsyPrzyjaciele_9
+    21300020: CreditsyPrzyjaciele_10
+    21300022: CreditsyPrzyjaciele_11
+    21300024: CreditsyPrzyjaciele_12
+    21300026: CreditsyPrzyjaciele_13
+    21300028: CreditsyPrzyjaciele_14
+    21300030: CreditsyPrzyjaciele_15
+    21300032: CreditsyPrzyjaciele_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 833
+        width: 338
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 794
+        width: 249
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 756
+        width: 307
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 720
+        width: 489
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 681
+        width: 168
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 642
+        width: 140
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 601
+        width: 197
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 563
+        width: 150
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 527
+        width: 148
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 482
+        width: 174
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 446
+        width: 144
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 413
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 374
+        width: 129
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 166
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 297
+        width: 121
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 569
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CreditsyPrzyjaciele_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 292
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

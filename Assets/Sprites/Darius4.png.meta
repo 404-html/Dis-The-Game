@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 34a1c29f686b791499e2221ffd5c6d83
+timeCreated: 1497919604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Darius4_0
+    21300002: Darius4_1
+    21300004: Darius4_2
+    21300006: Darius4_3
+    21300008: Darius4_4
+    21300010: Darius4_5
+    21300012: Darius4_6
+    21300014: Darius4_7
+    21300016: Darius4_8
+    21300018: Darius4_9
+    21300020: Darius4_10
+    21300022: Darius4_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darius4_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 179
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 248
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: 0.7511031, y: 0.7882269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 221
+        width: 86
+        height: 67
+      alignment: 9
+      pivot: {x: 0.61849016, y: 0.4429656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 296
+        width: 57
+        height: 65
+      alignment: 9
+      pivot: {x: 0.2301443, y: 0.77608407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 321
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 176
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6488569, y: 0.7366435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 174
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.24988984, y: 0.6794548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 129
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19022815, y: 0.8612397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 139
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7915512, y: 0.68014735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 255
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 159
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darius4_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 21
+        width: 262
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
